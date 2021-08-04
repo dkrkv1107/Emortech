@@ -1,0 +1,36 @@
+.container {
+  width: 35vw;
+}
+.form-control {
+  border-radius: 2px;
+}
+p {
+  display: flex;
+  margin-top: 10px;
+  font-style: normal;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 10px;
+  letter-spacing: 3px;
+}
+.heading {
+  display: flex;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 38px;
+  margin-bottom: 20px;
+}
+.submit {
+  margin-top: 45px;
+  width: 100%;
+  letter-spacing: 6px;
+  font-size: 24px;
+  background-color: black;
+  color: white;
+  border-color: white;
+  border-radius: 10px;
+}
+.main-one {
+  margin-top: 20vh;
+}
